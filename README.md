@@ -5,9 +5,9 @@ python .\main.py
 ```
 
 # Wiki
-Red : Food \n
-Green (moving) : snake \n
-Brown : Obstacles \n
+-Red : Food
+-Green (moving) : snake
+-Brown : Obstacles
 
 ## Primes :
 - Green : Slow the snake during (10s)
