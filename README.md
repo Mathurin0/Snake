@@ -15,7 +15,7 @@ The snake is controlled using directional arrows.
 ## Primes :
 - Green : Slow the snake during (10s)
 - White : Remove obstacles during (20s)
-- Orange : Add one additional food at the same time
+- Orange : Add one additional food at the same time (till the end)
 
 ## Penalties :
 - Blue : Speed up the snake during (10s)
