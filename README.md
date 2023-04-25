@@ -5,6 +5,9 @@ python .\main.py
 ```
 
 # Wiki
+
+The snake is controlled using directional arrows.
+
 - Red : Food
 - Green (moving) : snake
 - Brown : Obstacles
